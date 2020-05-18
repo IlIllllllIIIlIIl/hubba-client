@@ -1,0 +1,14 @@
+Chatoptionen
+<span class="padding-top"><br></span><h1>Chatoptionen</h1><span class="padding-top"><br></span>
+<span class="padding-top"><br></span><p>Im HuBBaHotel gibt es eine Vielzahl von unterschiedichen Räumen, in denen Nutzer mit verschiedenen Zielen chatten können. Daher bietet das Hotel verschiedene Optionen, wie dir dieser Chatverlauf in den Räumen angezeigt wird. Diese Möglickeiten sind alle recht ähnlich, unterscheiden sich aber auf subtile Weise, um dir so einen maßgeschneiderten Chat zu bieten.</p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p><b>Zeile-für-Zeile Modus</b></p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p>Im Zeile-für-Zeile Modus fließen alle Sprechblasen untereinander nach oben, egal wo mi Raum sie gesagt wurden. Das ist gut, um festzuhalten, wer was zuerst gesagt hat, kann jedoch in großen Räumen schwierig werden, da Gespräche, die nichts miteinander zu tun haben, vermischt werden.</p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p><b>Frei fließender Modus</b></p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p>Nur für Beta-Gruppen verfügbar: Der frei fließende Modus erlaubt unabhängige Chatverläufe, die nicht zu nahe aneinander grenzen, sondern in getrennten Strömen nach oben fließen. Diese Chateinstellung schließt angrenzende Gespräche näher zusammen, wenn die Beteiligten näher zueinandergehen oder bildet automatisch einen Gesprächsstrom.</p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><h3>Raumbesitzer</h3><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p>Nur der Raumbesitzer kann entscheiden, welche Chatoption in seinem Raum benutzt wird, mit welcher Geschwindigkeit das Gespräch nach oben läuft und die maximale Breite der Sprechblasen. Er kann auch die Hörweite einstellen und sie auf 3 Bodenfliesen beschränken oder bis 90 ausdehnen.</p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><h3>Alter Chat</h3><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p>Für die Fans des alten Chatmodus gibt e seine Einstellung, zu diesem zurückzuschalten. Der frei fließende Modus und die Geschwindigkeit, die vom Besitzer eingetellt wurde, wird von diesem „klassischen&quot; Chat außer Kraft gesetzt, aber die Hörweiteeinstellung bleibt weiterhin aktiv. Wenn du diese „klassische&quot; Einstellung wählst, ist sie nur auf dich begrenzt. </p><span class="padding-bottom"><br></span>
+<img src="https://data.hubba.cc/c_images/extra/3b505e.png" width="1000" height="1"/><br>
+<span class="padding-top"><br></span><p>Siehe auch: <a href="event:habbopages/chat/chatting">Chatten in HuBBa</a></p><span class="padding-bottom"><br></span>
+

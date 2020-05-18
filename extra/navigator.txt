@@ -1,0 +1,24 @@
+Durch Räume navigieren
+<span class="padding-top"><br></span><h3>Räume finden</h3><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p>Nutze den Navigator, um die wunderbare Welt von HuBBa zu erkunden! Suche einfach nach speziellen Räumen mit Filtern wie Raumname, Besitzer, Gruppenname und Tags.</p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><h3>Die vier Ansichten</h3><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p>Die vier Registerkarten bieten dir verschiedene Einsichten in die Hotelräume: Öffentlich, Alle Räume, Events und Meine Welt. Jede Ansicht zeigt dir etwas anderes.</p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><h3>Öffentlich</h3><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p>Diese Räume werden von HuBBa gestellt, wie beispielsweise öffentliche Räume, Kampagnenräume und Attraktionen. Du kannst ebenso die Kategorie &quot;Staffs Picks&quot; in dieser Registerkarte finden, das sind Räume von Usern gebaut, aber vom HuBBa Staff empfohlen.  </p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><h3>Alle Räume</h3><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p>Du kannst in dieser Ansicht alle Räume finden - außer der Raum wurde auf unsichtbar gestellt. Die Ergebnisse werden ihrem Zweck entsprechend angezeigt.</p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><h3>Events</h3><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p>In der Registerkarte Events findest du Räume, in denen User Events abhalten. Die Ergebnisse werden nach Art der laufenden Events kategorisiert. </p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><h3>Meine Welt</h3><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p>In dieser Registerkarte findest du deine eigenen Räume, aber ebenso die Räume deiner Freunde, Räume, die du häufig besuchst und Gruppenräume, wo du Mitglied bist.</p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><h3>Suchen</h3><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p>Wähle die relevante Registerkarte und anschließend das Kriterium, nach dem du filtern willst. Gib abschließend den Suchtext ein und drücke Enter! Schon werden die Ergebnisse geladen.</p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><h3>Suchergebnisse</h3><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p>Die meisten Navigatorsuchen werden dir eine Liste von Räumen verschiedenster Kategorien anzeigen. Die Top-Ergebnisse werden dir automatisch angezeigt. Du kannst die Kategorie erweitern, um noch mehr Ergebnisse zu sehen! </p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p>Du kannst wählen, ob du mehr oder weniger Ergebnisse anzeigen willst, indem du auf die &quot;+&quot; und &quot;-&quot; Zeichen in der Kopfzeile der Kategorie klickst. Du kannst ebenso wählen, ob du die Kategorie als Liste oder im Thumbnail-Modus angezeigt haben willst. Deine gewünschten Einstellungen werden automatisch gespeichert. </p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><h3>Zurückgehen</h3><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p>Du kannst zu den Ergebnissen deiner vorigen Suche zurückgehen, indem du auf die Schaltfläche links oben klickst.</p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><h3>Deine Suchen speichern</h3><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p>Du kannst jede Suche, die du durchführst, anhand der Filteroptionen, die du eingibst, speichern. So kannst du schnell und einfach sehen, was im Hotel rund um deine Schlüsselwörter und Interessen, passiert. Klicke einfach auf das orange Blitzsymbol, um die Suche in der linken Spalte zu speichern. </p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><h3>Fenstergröße anpassen</h3><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p>Die Fenstergröße kann angepasst werden, indem du das Fenster an der rechten unteren Ecke entsprechend ziehst. Du kannst ebenso das linke Bedienfeld verstecken oder anzeigen, indem du auf die graue Schaltfläche klickst. All deine Einstellungen werden automatisch gespeichert.</p><span class="padding-bottom"><br></span>

@@ -1,0 +1,5 @@
+Tiertraining
+<span class="padding-top"><br></span><h1>Tiertraining</h1><span class="padding-top"><br></span>
+<img src="https://data.hubba.cc/c_images/extra/cb_pets_160x60.gif" hspace="10" align="left" vspace="0"/><span class="padding-top"><br></span><p>Jedes Haustier hat die Fähigkeit Level von 1 bis 20 zu erreichen. Jedes Mal wenn du dein Haustier trainierst, wirst du Erfahrung sammeln. Je mehr du dein Tier trainierst, desto mehr Kommandos lernt es. Einige Kommandos benötigen Zubehör wie Wasserschüsseln oder Spielzeug. </p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p>Nach der Dressur benötigt dein Haustier Fressen, Wasser und Ruhe. Einige Nahrungsmittel geben deinem Tier mehr Energie als andere. Vergiss nicht dein Haustier oft zu streicheln - es hört dann besser auf dich! </p><span class="padding-bottom"><br></span>
+

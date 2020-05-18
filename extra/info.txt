@@ -1,0 +1,26 @@
+Builders Club Mitgliedschaft
+<span class="padding-top"><br></span><h1>Builders Club Mitgliedschaft Informationen</h1><span class="padding-top"><br></span>
+<span class="padding-top"><br></span><h2>Was ist der Builders Club?</h2><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p>Builders Club ist ein neues Feature, das dir ein virtuelles Lager voll mit Möbeln zur Verfügung stellt. Du kannst Räume bauen, ohne dich Gedanken darüber zu machen, wie viel Guthaben du noch brauchst, um dein Projekt zu vervollständigen. Wenn etwas in deinem Raum nicht gut aussieht, räume es auf und stelle etwas Anderes hin. So einfach ist es!</p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><h2>Kostenlose Testversion</h2><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p>Alle HuBBas erhalten eine kostenlose Testversion automatisch. Mit der kostenlosen Testversion kannst du Räume mit 100 Möbeln bauen. Ein Abonnement wird benötigt, um deine Builders Club Räume für Besucher freizugeben.</p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><h2>Mitgliedschaft</h2><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p>Wenn du BC Mitglied wirst, werden deine Builders Club Räume automatisch freigeschaltet und du kannst den Türstatus (offen, privat, unsichtbar und mit Passwort) auswählen. Du erhälst eine <b> dauerhafte </b> Erweiterung deines Lagerhallenlimits! Mitgliedschaftsstatus und aktuelle Möbelgrenze werden in der &quot;Builders Club Lagarhalle&quot; angezeigt.</p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><h2>Gebrauch von BC Möbeln</h2><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p class="bullet-item">·&nbsp;Um die BC Möbel zu verwenden, ziehe sie aus der Builders Club Lagerhalle in deinen Raum</p>
+<p class="bullet-item">·&nbsp;Um die BC Möbel in der Lagerhalle zurück zu bringen, nimm sie einfach auf</p>
+<p class="bullet-item">·&nbsp;Du kannst BC Möbel nur in deinen eigenen Räumen verwenden aber nicht in Gruppenräumen oder gemieteten Flächen.</p>
+<span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><h2>Möbelauswahl</h2><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p>Der Builders Club hat eine breite Auswahl an dekorativen Möbellinien, die du für deine Entwürfe verwenden kannst. Dazu gehören viele der Standard-Möbellinien aus unserem Katalog sowie Kampagnen- und Saisongegenstände, die hin- und herkommen.</p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><h2>Möbellimit</h2><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p class="bullet-item">·&nbsp;Du kannst nur eine bestimmte Anzahl von BC Möbel in deinen Raum platzieren. Neue Benutzer starten mit 100.</p>
+<p class="bullet-item">·&nbsp;Wenn du den BC beitrittst, erhälst du eine Erweiterung auf dein Möbellimit (bis 1,000).</p>
+<p class="bullet-item">·&nbsp;Nach deinem ersten Abonnement, erhälst du eine zusätzliche Erweiterung von 250 auf dein Möbellimit pro Monat</p>
+<p class="bullet-item">·&nbsp;Weitere <b>dauerhafte</b> Möbellimit-Erweiterungen, die du noch dazu kaufst, werden zum bisherigen Möbellimit hinzugefügt.</p>
+<span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><h2>Abgelaufene Mitgliedschaft</h2><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p>Wenn deine Mitgliedschaft endet, werden deine Räume und dein Möbellimit intakt bleiben. Die mit BC Möbel gebauten Räumen werden einfach für die Besucher gesperrt, aber du kannst sie betreten und daran weiter arbeiten. Dein Möbellimit wird nicht zurückgesetzt, und wenn du dein Mitgliedschaft verlängerst, werden deine Räume automatisch entsperrt und du wirst die üblichen Erweiterung von 250 Möbel mehr für dein Möbellimit bekommen.</p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><h2>Bodenplaneditor<br>
+Mit dem Bodenplaneditor kannst du ganz einfach personalisierte Raumdesigns erstellen, die Wandhöhe bearbeiten und sogar die Position der Eingangstür bzw. die Blickrichtung, wenn ein HuBBa den Raum betritt, verändern. Tippe :floor oder :bcfloor um den Bodenplaneditor anzuzeigen.</h2><span class="padding-bottom"><br></span>
+

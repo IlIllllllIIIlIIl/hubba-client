@@ -1,0 +1,14 @@
+Gnomen
+<span class="padding-top"><br></span><h1>Gnomen</h1><span class="padding-top"><br></span>
+<span class="padding-top"><br></span><h2>Was sind die Gnomen?</h2><span class="padding-bottom"><br></span>
+<img src="https://data.hubba.cc/c_images/extra/gnomelevelssmall.png" hspace="10" align="right" vspace="10"/><span class="padding-top"><br></span><p>Ein Gnom ist das NEUE Haustier im HuBBaHotel. Sie sind liebenswerte kleine Schlawiner, die uns unsere Herzen... und das ganze Hotel brechen werden!</p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><h2>Wie kann ich einen erhalten?</h2><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p>Du kannst einen Gnomen im Katalog kaufen. Jeder Gnom wird in einer speziellen Kiste verpackt und wird im Inventar angezeigt. Platziere die Kiste in deinen Raum - Doppelklick - Die Kiste verschwindt und dein zappeliges Gnom ist befreit!</p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><h2>Gnomen trainieren</h2><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p>Gnomen, genau wie die Haustiere, können von 1 bis Level 20 trainiert werden. Jedes Mal, wenn du deinen Gnomen trainierst, wird seine Erfahrung erweitert. Je mehr du ihn trainierst, desto mehr Befehle wird er lernen. Einige Trainings-Befehle benötigen Zubehör, wie Wasserschalen oder Spielzeuge.</p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p>Gnomen brauchen Futter, Wasser und Ruhe. Einige Lebensmittel geben ihnen mehr Energie als andere. Schließlich, stelle sicher, dass dein Gnom oft kratzt - er wird noch gehorsamer sein!</p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><h2>Gnomen-Befehle</h2><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p>Gnomen reagieren auf die gleichen Befehle wie die meisten anderen Haustiere - Probiere es aus!</p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><h2>Gnomen-Rarität</h2><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p>Es gibt verschiedene Arten von Gnomen - einige seltener als andere - aber du weiss nicht, was du erhälst, bis du die Kiste nicht geöffnet hast.</p><span class="padding-bottom"><br></span>
+
