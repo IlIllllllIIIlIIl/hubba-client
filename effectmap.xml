@@ -203,4 +203,17 @@
   <effect id="197" lib="Flycarpet" type="fx" revision="63334"/>
   <effect id="198" lib="ZombieDuck" type="fx" revision="63413"/>
   <effect id="199" lib="Turtleride" type="fx" revision="64066"/>
-</map>
+
+<effect id="1000" lib="acc_0cc_des" type="fx" revision="62457"/>
+<effect id="1002" lib="acc_shirt_go" type="fx" revision="62457"/>
+<effect id="1004" lib="acc_pants_9srt" type="fx" revision="62457"/>
+<effect id="1005" lib="molhand" type="fx" revision="62457"/>
+<effect id="2000" lib="BCS1erp" type="fx" revision="62457"/>
+<effect id="2001" lib="RCS1erp" type="fx" revision="59200"/>
+<effect id="3100" lib="mtb_2018s" type="fx" revision="59200"/>
+<effect id="3101" lib="mtfg_2018s" type="fx" revision="62457"/>
+<effect id="3103" lib="mtr_2018s" type="fx" revision="62457"/>
+<effect id="3104" lib="mtg_2018s" type="fx" revision="62457"/>
+<effect id="3105" lib="Trotinettte" type="fx" revision="59200"/>
+<effect id="3106" lib="Peog" type="fx" revision="61749"/>
+<effect id="3107" lib="FSpinn" type="fx" revision="59200"/></map>
