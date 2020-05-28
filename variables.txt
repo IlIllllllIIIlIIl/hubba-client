@@ -1,5 +1,5 @@
 activity.point.display.enabled=true
-ads.domain=hubba.cc
+ads.domain=
 app.review.triggers=purchase,respect
 app.review.url.android=
 app.review.url.ios=itms-apps://itunes.apple.com/WebObjects/MZStore.woa/wa/viewContentsUserReviews?type
@@ -120,7 +120,7 @@ effects.in.avatar.editor=true
 effects.reactivate.on.room.entry=true
 email.verification.url=${url.prefix}/profile?tab
 embed.showInRoomInfo=true
-eventinfo.enabled=true
+eventinfo.enabled=false
 external.figurepartlist.txt=https://client.hubba.cc/figuredata.xml
 extra_data_batches_enabled=false
 extra_data_service_url=https://extradata.habbo.com/public/furni/
