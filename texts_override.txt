@@ -6997,3 +6997,4 @@ wiredfurni.params.turn.4=drehe links um 90°
 wiredfurni.params.turn.5=drehe um (180°)
 wiredfurni.params.turn.6=drehe in eine zufällige Richtung
 wiredfurni.pickfurnis.desc=Wähle bis zu 1000 Möbel. Du kannst ein Möbelstück in deinem Raum wählen, indem du es anklickst.
+infostand.button.buy=kaufen
