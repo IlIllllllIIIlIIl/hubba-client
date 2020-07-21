@@ -8,4 +8,4 @@ Kunstfertigkeit."],["classic6_endtable","Orientalischer Stand","Eine perfekte St
 ","Ein Stück Nirvana"],["shangrigr_pillar","Grüne Shangrila-Säule
 ","Ein Stück Nirvana"],["shangrirt_pillar","Rote Shangrila-Säule
 ","Ein Stück Nirvana"],["shangrisw_pillar","Schwarze Shangrila-Säule
-","Ein Stück Nirvana"],["blitzkissen_kissen","",""],["wii_winzling","",""],["flapil","",""],["flash_pillow","",""]]
+","Ein Stück Nirvana"],["blitzkissen_kissen","",""],["wii_winzling","",""],["flapil","Blitzkissen","Aus den Kräften der Blitzgötter erschaffen"],["flash_pillow","",""]]
