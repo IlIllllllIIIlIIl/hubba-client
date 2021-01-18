@@ -175,7 +175,7 @@ guidetool.handle.help_requests=true
 guidetool.handle.tour_requests=false
 habbo.gaming.api.enabled=false
 habbo_club_buy_disabled=true
-${url.prefix}gamedata/pages/habboway.enabled=false
+habbopages.url=${url.prefix}gamedata/pages/habboway.enabled=false
 handitem.drop.enabled=true
 handitem.give.enabled=true
 handitem.give.pet.enabled=false
