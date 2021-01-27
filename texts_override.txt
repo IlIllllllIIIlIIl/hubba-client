@@ -7353,6 +7353,7 @@ help.cfh.reason.room=Sonstiges
 help.cfh.reason.sex_and_pii=Sexuelle Aktivitäten
 help.cfh.reason.trolling=Unangebrachtes Verhalten
 infostand.button.buy=kaufen
+infostand.link.ambassador=Staff (defekt)
 landing.view.cp15chooseshf.button=Katalog öffnen
 landing.view.cp15chooseteam.body=Lichterfüllte Stadtansichten und hellerleuchtete Wolkenkratzer ... Das ist die dunkle, düstere Möbellinie der Zukunft - Einer Zukunft namens Cyberpunk!
 landing.view.cp15chooseteam.header=CyberPunk ist da!
