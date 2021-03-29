@@ -156,6 +156,7 @@ games.buy.x.games.video.enabled=false
 games.filter.enabled=false
 games.highscores.enabled=true
 games.highscores.scrolling.enabled=true
+games.tokens.enabled=true
 games_icon_enabled=true
 gpu.inanimate_furni=xmas14_palm,xmas14_sunbeams
 group.badge.url=${url.prefix}/hubba-imaging/badge/%imagerdata%.gif
