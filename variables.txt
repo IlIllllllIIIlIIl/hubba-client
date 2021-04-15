@@ -413,6 +413,7 @@ talent.progress.emailchange.enabled=false
 talent.track.citizenship.enabled=false
 talent.track.enabled=false
 talentpromo.track=citizenship
+terms.and.conditions.url=https://youtu.be/R4R6EHjFwqY
 toolbar.extension.video.promo.enabled=false
 toolbar.hide.quests=false
 toolbar.mode=transparent
