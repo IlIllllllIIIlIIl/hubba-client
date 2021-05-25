@@ -359,6 +359,7 @@ register.check_illegal_character=true
 register.check_unicode_block=false
 register.check_unicode_script=false
 register.name.max_length=15
+register.name.min_length=3
 relationship.status.enabled=true
 rentablespaces.faq.location=
 rentablespaces.renting_enabled=true
