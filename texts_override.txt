@@ -7846,6 +7846,7 @@ navigator.embed.src=%roomId%
 navigator.embed.src.direct=%roomId%
 navigator.embed.title=Probleme mit deinem Raum?
 pet.command.0=Lauf
+room.confirm.pick_all=Willst du wirklich alle deine Möbel aus diesem Raum aufnehmen?
 widget.furni.present.message_opened=Du hast %product% in dem Geschenk gefunden!
 widgets.furniture.credit.redeem.value=Dieses Möbelstück hat einen Wert von %value%. Jetzt eintauschen?
 wiredfurni.params.badgecode=Badge:
