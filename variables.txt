@@ -316,6 +316,7 @@ notification.forums.thread.pinned={"display":"BUBBLE"}
 notification.forums.thread.restored={"display":"BUBBLE"}
 notification.forums.thread.unlocked={"display":"BUBBLE"}
 notification.forums.thread.unpinned={"display":"BUBBLE"}
+notification.friendlist.error.friend_requests_disabled={"display":"POP_UP"}
 notification.furni_placement_error={"display":"BUBBLE"}
 notification.gifting.valentine={"delivery": "PERSISTENT", "display":"BUBBLE", "image":"${image.library.url}notifications/valentines_card_icon.png"}
 notification.items.enabled=true
