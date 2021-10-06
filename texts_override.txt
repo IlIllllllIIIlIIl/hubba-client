@@ -8053,6 +8053,7 @@ catalog.start.guild.purchase.button=Klicke hier um eine Gruppe zu erstellen
 embed_src_direct_txt=%roomId%
 handitem1042=Staffkacke
 handitem1400=Test
+handitem54=Wohlmundender Kaffee von höchster Qualität
 help.cfh.reason.help=Hilfe
 help.cfh.reason.interruption=Raum Probleme
 help.cfh.reason.room=Sonstiges
