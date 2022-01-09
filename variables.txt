@@ -168,7 +168,7 @@ groupMembers.enabled=true
 groupRoomInfo.attach.enabled=true
 groupRoomInfo.badge.enabled=true
 groupRoomInfo.enabled=true
-group_logo_url_template=${url.prefix}/hubba-imaging/badge/%imagerdata%.gif
+group_logo_url_template=https://i.hubba.cc/group/?badge=%imagerdata%
 groupforum.poll.period=900
 guardians.enabled=false
 guide.enable.guardian.talent.track=false
