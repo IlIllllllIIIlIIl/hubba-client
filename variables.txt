@@ -160,7 +160,7 @@ games.highscores.scrolling.enabled=true
 games.tokens.enabled=true
 games_icon_enabled=true
 gpu.inanimate_furni=xmas14_palm,xmas14_sunbeams
-group.badge.url=${url.prefix}/hubba-imaging/badge/%imagerdata%.gif
+group.badge.url=https://i.hubba.cc/group/?badge=%imagerdata%
 group.deletion.enabled=true
 group.deletion.maximum.members=500
 group.homepage.url=${url.prefix}/groups/%groupid%/id
