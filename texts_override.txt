@@ -8371,6 +8371,7 @@ catalog.alert.purchaseerror.description.13=Es gibt für dieses Angebot keine Rab
 catalog.redeem.dialog.title=In die Geldbörse?
 catalog.start.guild.purchase.button=Klicke hier um eine Gruppe zu erstellen
 embed_src_direct_txt=%roomId%
+floor.plan.editor.size.limit.exceeded=Du hast das Größenlimit erreicht. Maximal 128 Bodenfliesen in einer Richtung und nicht mehr als 4096 (64x64) gesamt sind erlaubt!
 handitem1042=Staffkacke
 handitem1400=Test
 handitem54=Wohlmundender Kaffee von höchster Qualität
