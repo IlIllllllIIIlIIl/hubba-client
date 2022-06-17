@@ -432,6 +432,7 @@ trading.commiterror.enabled=true
 trading.warning.enabled=true
 trax.player.sample.memory.purge.enabled=1
 try.existing.session=false
+tutorial.enabled=true
 unique.limited.items.enabled=true
 url.prefix.no=https://www.habbo.no
 use.default.localizations=false
