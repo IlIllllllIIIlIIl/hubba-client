@@ -288,6 +288,7 @@ new.user.reception.enabled=false
 new.user.wing=
 news.auto_popup.enabled=false
 next.limited.rare.countdown.widget.disabled=false
+nft.room_access.enabled=true
 notification.admin.persistent={"delivery":"PERSISTENT","display":"POP_UP","image":"${image.library.url}album1358/frank_wave_001.gif"}
 notification.admin.transient={"display":"POP_UP","image":"${image.library.url}album1358/frank_wave_001.gif"}
 notification.builders_club.membership_expired={"display":"POP_UP"}
