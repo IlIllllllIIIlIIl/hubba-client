@@ -8414,6 +8414,7 @@ catalog.alert.purchaseerror.description.10=Du kannst Geschenke nicht so schnell 
 catalog.alert.purchaseerror.description.11=Sorry! Dieses limitierte Möbel ist bereits vergriffen!
 catalog.alert.purchaseerror.description.12=Du kannst dir diesen Einkauf nicht leisten.
 catalog.alert.purchaseerror.description.13=Es gibt für dieses Angebot keine Rabatte.
+catalog.marketplace.search_by_activity=Angebote
 catalog.redeem.dialog.title=In die Geldbörse?
 catalog.start.guild.purchase.button=Klicke hier um eine Gruppe zu erstellen
 embed_src_direct_txt=%roomId%
