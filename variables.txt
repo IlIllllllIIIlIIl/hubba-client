@@ -1,5 +1,6 @@
 activity.point.display.enabled=true
 ads.domain=
+android.inappupdate.settings={"PriorityMappings":{"1":{"FlexibleUpdateDays":5,"ImmediateUpdateDays":-1},"2":{"FlexibleUpdateDays":5,"ImmediateUpdateDays":-1},"3":{"FlexibleUpdateDays":0,"ImmediateUpdateDays":14},"4":{"FlexibleUpdateDays":0,"ImmediateUpdateDays":7}}}
 app.review.triggers=purchase,respect
 app.review.url.android=
 app.review.url.ios=itms-apps://itunes.apple.com/WebObjects/MZStore.woa/wa/viewContentsUserReviews?type
@@ -93,6 +94,7 @@ competition.xmasRoomComp.catalogPage=xmas_castles_2012
 connection.info.host.no=game-no.habbo.com
 connection.info.name.no=Norge
 connection.info.port.no=30000,993
+consent.settings={"Version":20220818,"ConsentItems":[{"Type":0,"Title":"consent.terms_of_service.title","Description":"consent.terms_of_service.description","Interactable":false,"IsOn":true},{"Type":1,"Title":"consent.marketing.title","Description":"consent.marketing.description","Interactable":true,"IsOn":false},{"Type":3,"Title":"consent.analytics.title","Description":"consent.analytics.description","Interactable":true,"IsOn":false},{"Type":4,"Title":"consent.personalized_ads.title","Description":"consent.personalized_ads.description","Interactable":true,"IsOn":false}]}
 crafting.enabled=true
 currencyiconstyle.big.101.combo=55
 currencyiconstyle.big.101=55
