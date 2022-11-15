@@ -8598,6 +8598,7 @@ landing.view.hween15crafting.header=Der Fluch der Hexe
 landing.view.hween15creditfurni.button=Schau dir die News an!
 landing.view.hween15pumpkin.button=Schau dir die News an!
 mannequin.widget.back=Zurück
+mod.chatdisclaimer=Du kannst Leute die dich stören mit dem Befehl :ghost ausblenden
 navigator.embed.caption=Raum Id
 navigator.embed.direct.info=Aus dem Feld hier kannst du die Raum Id kopieren:
 navigator.embed.headline=Raum Id
