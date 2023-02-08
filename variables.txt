@@ -454,6 +454,7 @@ web.terms_of_service.link=${url.prefix}/article/1223/Regeln
 welcome.gift.feature.enabled=false
 welcome.screen.enabled=0
 wired.enabled.air=1
+wired.timezones=Europe/Berlin
 xmas11.enabled=false
 xmas2012.calendar.enabled=false
 xmas2012.calendar.startdate=2012-12-02 00:00
