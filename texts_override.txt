@@ -8686,6 +8686,7 @@ badge_name_ZYKO=Zyko
 badge_desc_ZYKO=Ich bin ein Fan von Zyko aka. Danny
 badge_name_ZZZ=Cube
 badge_desc_ZZZ=Oh, it's a cube!
+catalog.alert.notenough.credits.description=Du hast nicht genug Taler um diese Transaktion durchzuführen.
 catalog.alert.purchaseerror.description.10=Du kannst Geschenke nicht so schnell kaufen. Warte etwas.
 catalog.alert.purchaseerror.description.11=Sorry! Dieses limitierte Möbel ist bereits vergriffen!
 catalog.alert.purchaseerror.description.12=Du kannst dir diesen Einkauf nicht leisten.
