@@ -8746,6 +8746,7 @@ room.confirm.pick_all=Willst du wirklich alle deine Möbel aus diesem Raum aufne
 widget.furni.present.message_opened=Du hast %product% in dem Geschenk gefunden!
 widgets.furniture.credit.redeem.value=Dieses Möbelstück hat einen Wert von %value%. Jetzt eintauschen?
 wiredfurni.params.badgecode=Badge:
+wiredfurni.params.bot.name=Name / Wert
 wiredfurni.params.effectid=ID:
 wiredfurni.params.emptytiles=Platziere Möbel %tiles% Fliesen auseinander
 wiredfurni.params.placetodirection=Platziere Möbel in diese Richtung
