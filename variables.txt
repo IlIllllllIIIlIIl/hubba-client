@@ -466,6 +466,7 @@ xmas11.enabled=false
 xmas2012.calendar.enabled=false
 xmas2012.calendar.startdate=2012-12-02 00:00
 zoom.enabled=1
+new.user.flow.roomTypes=10,11,12
 external.figurepartlist.txt=${client.files.url}figuredata.xml
 productdata.load.url=${client.files.url}productdata.txt
 flash.dynamic.effect.download.url=//${flash.client.url}game/effects/
