@@ -341,6 +341,7 @@ notification.mute.forbidden.time={"display":"BUBBLE"}
 notification.npc.gift.received={"display":"BUBBLE","image":"${image.library.url}album1584/X1517.gif"}
 notification.nux.popup={"display":"POP_UP"}
 notification.purchasing.room={"delivery":"PERSISTENT","display":"POP_UP"}
+notification.reward_received={"display":"BUBBLE","image":"${image.library.url}/notifications/reward_1.png"}
 notification.wired.error={"display":"BUBBLE"}
 nux.lobbies.enabled=true
 nux.noob.lobby.popup.delay=67
