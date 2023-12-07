@@ -6282,6 +6282,8 @@ badge_name_RBS02=Rare Brother Gründer
 badge_desc_RBS02=raphaKP. - Offizieller Gründer der Rare Brothers im HuBBaHotel!
 badge_name_RBS03=Rare Brother Mitglied
 badge_desc_RBS03=Ich bin ein Offizielles Mitglied der Rare Brothers von raphaKP.
+badge_name_RBWBAUBLE=Für das Gewinnen eines Weihnachts Events!  
+badge_desc_RBWBAUBLE=HuBBaMotion X-Mas 2023, Xoxo
 badge_name_RBWBL23=hope is a helium balloon
 badge_desc_RBWBL23=it is a wish lantern set out into the blue sky
 badge_name_RDL02=Blaue Drachenlampe
