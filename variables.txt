@@ -81,6 +81,7 @@ club.membership.extend.basic.promotion.enabled=true
 club.membership.extend.vip.promotion.enabled=true
 club.subscription.disabled=1
 club_center.enabled=true
+collectibles.hub.enabled=true
 competition.africaDesert.catalogPage=set_desert
 competition.africaJungle.catalogPage=set_jungle
 competition.africaSavannah.catalogPage=set_savannah
