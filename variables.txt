@@ -54,6 +54,7 @@ catalog.new.additions.page.open.disabled=false
 catalog.newgiftflow.enabled=true
 catalog.pets.adjust_old=true
 catalog.pets.enabled=true
+catalog.preview.alignment.bottom=china_c24_resolution1,china_c24_resolution2_bd
 catalog.purchase.gift.singleclick.confirmation=true
 catalog.purchase.gift.singleclick=true
 catalog.purchase.gift_wrapping.default_box_index=0
