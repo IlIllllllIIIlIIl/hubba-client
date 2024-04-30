@@ -1,4 +1,4 @@
-activity.point.display.enabled=true
+activity.point.display.enabled=false
 activitypoint.name.0=tooltip.duckets
 activitypoint.name.101=flowers.currency.name
 activitypoint.name.102=snowflakes.currency.name
