@@ -1,4 +1,4 @@
-activity.point.display.enabled=false
+activity.point.display.enabled=true
 activitypoint.name.0=tooltip.duckets
 activitypoint.name.101=flowers.currency.name
 activitypoint.name.102=snowflakes.currency.name
@@ -515,7 +515,9 @@ web.terms_of_service.link=${url.prefix}/article/1223/Regeln
 welcome.gift.feature.enabled=false
 welcome.screen.enabled=0
 wired.enabled.air=1
+wired.menu.enabled=true
 wired.timezones=Europe/Berlin
+wired.variables.context_visible=false
 xmas11.enabled=false
 xmas2012.calendar.enabled=false
 xmas2012.calendar.startdate=2012-12-02 00:00
