@@ -423,6 +423,7 @@ room.enter.infostand.fade.start.delay=20000
 room.rating.enable=1
 room.report.enabled=true
 room.settings.trading.visible=false
+room.stacking_blocked_mask_bit=15
 room_ad.duration.minutes=120
 room_ad.maximum_total_time.minutes=10080
 room_bundles.enabled=false
