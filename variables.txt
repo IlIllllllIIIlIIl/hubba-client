@@ -39,6 +39,7 @@ bundle.dynamic.discounts.enabled=false
 bundle.dynamic.maximum.purchase.size=100
 bundle.quantity.incentive.enabled=true
 cache.revision=2018-09-06 14:51:57
+cached.item.expiration.time=3600
 camera.available.effects=hearts_hardlight_02,stars_hardlight_02,security_hardlight,alien_hrd,bluemood_mpl,coffee_mpl,drops_mpl,glitter_hrd, misty_hrd,pinky_nrm,rusty_mpl,shiny_hrd,toxic_hrd, shadow_multiply_02,texture_overlay,frame_gold,frame_gray_4,frame_black_2,frame_wood_2,finger_nrm, color_1,color_2,color_3,color_4,dark_sepia,night_vision,x_ray,increase_saturation, decrease_saturation,hypersaturated,increase_contrast,decr_conrast,hue_bright_sat,Yellow,green_2
 camera.competition.enabled=false
 camera.effects.enabled=false
