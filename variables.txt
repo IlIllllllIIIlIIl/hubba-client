@@ -401,6 +401,7 @@ questing.startQuestDelayInSeconds=10
 quests.unity.enabled=true
 raycasting.alpha_threshold=127
 recycler.number_of_slots=6
+register.allowed.characters=_-
 register.allowed_unicode_blocks=Basic Latin
 register.allowed_unicode_scripts=Common,Latin
 register.check_illegal_character=true
