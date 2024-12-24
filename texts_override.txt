@@ -1138,6 +1138,8 @@ badge_name_CRO=Pandabär
 badge_desc_CRO=Keiner ist süßer als er!
 badge_name_CRYBAUBLE=Für das Gewinnen eines Weihnachts Newsevents!  
 badge_desc_CRYBAUBLE=HuBBaMotion X-Mas 2023, Xoxo
+badge_name_CSC25=Weihnachten 2024
+badge_desc_CSC25=
 badge_name_CSD=CSD 2015
 badge_desc_CSD=Setze ein Zeichen für Toleranz ggü. Schwulen und Lesben! Liebe ist Liebe|
 badge_name_CUBE=Cube
