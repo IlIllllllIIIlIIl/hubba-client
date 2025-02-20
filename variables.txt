@@ -523,6 +523,7 @@ v3_credit_flow.enabled=true
 v3_credit_flow_navigation.enabled=true
 v3_credit_flow_navigation=true
 valentines.enabled=false
+vault_enabled=false
 vertical.mode.enabled=false
 vertical.mode.mobile.enabled=true
 viral.furni.post_type=appRequest
