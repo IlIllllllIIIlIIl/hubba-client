@@ -233,6 +233,7 @@ image.library.url.server=//${flash.client.url}images/
 image.library.url.stickers=//${flash.client.url}images/
 image.library.url=//${flash.client.url}images/
 infostand.motto.change.enabled=true
+infostand.place_more.enabled=true
 infostand.report.show=1
 infostand.use.button.enabled=true
 interstitial.enabled=false
