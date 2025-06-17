@@ -329,6 +329,7 @@ new.user.wing=
 new_user_chooser.enabled=true
 news.auto_popup.enabled=false
 next.limited.rare.countdown.widget.disabled=false
+nft.classname.detection.enabled=true
 nft.minting.enabled=true
 nft.reward.claims.enabled=true
 nft.room_access.enabled=true
