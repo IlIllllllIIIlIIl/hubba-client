@@ -295,6 +295,7 @@ menu.bot.enabled=true
 menu.own_avatar.enabled=1
 messenger.history.state.message.limit=100
 messenger.new.skin=true
+messenger.status.length.days=365
 minimal.level.for.trading=15
 mobile.tilecursor.clicktype=2
 moderatoractionlog.url=https://theallseeingeye.sulake.com/ase/habbo/de/housekeeping/extra/hobba/moderator_activity.action?searchCriteria.habboName
