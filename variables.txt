@@ -460,6 +460,7 @@ register.name.min_length=3
 relationship.status.enabled=true
 rentablespaces.faq.location=
 rentablespaces.renting_enabled=true
+respect.replenish_cost_duckets=20
 respect.talent.show.min.audience=6
 roaming_npc.send_notification_action={"display":"BUBBLE","image":"${image.library.url}album1584/BOT.png"}
 room.bundles.dummy_id=14272196
