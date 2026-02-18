@@ -91,6 +91,7 @@ client.news.embed.enabled=false
 client.reload.url=${url.prefix}/account/reauthenticate?page
 client.stargems.enabled=false
 client.toolbar.static.enabled=false
+clothing.misc.tab.enabled=true
 club.membership.extend.basic.promotion.enabled=true
 club.membership.extend.vip.promotion.enabled=true
 club.subscription.disabled=1
