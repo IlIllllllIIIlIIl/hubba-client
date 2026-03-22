@@ -231,6 +231,7 @@ hccenter.activity.enabled=true
 help.habboway.page.count=8
 hotel.teaser=
 hotelview.banner.url=
+huu=haa
 identityTracking.enabled=false
 image.library.badgepart.url=//${flash.client.url}images/Badgeparts/
 image.library.catalogue.url=//${flash.client.url}images/catalogue/
