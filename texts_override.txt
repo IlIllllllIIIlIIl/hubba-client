@@ -9701,6 +9701,7 @@ floor.plan.editor.size.limit.exceeded=Du hast das Größenlimit erreicht. Maxima
 generic_usable.button.use=Verwenden
 generic.accept=Annehmen
 generic.confirm=Bestätigen
+generic.delete=Entfernen
 generic.username=Nutzername
 handitem1042=Staffkacke
 handitem1400=Test
