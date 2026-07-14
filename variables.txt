@@ -511,6 +511,7 @@ reward_track.introduction.task.place_furniture.hint.internal_link=inventory/open
 reward_track.introduction.task.publish_picture.hint.internal_link=camera/open
 reward_track.introduction.task.visit_rooms.hint.internal_link=navigator/tab/popular
 reward_track.introduction.task.wear_badge.hint.internal_link=inventory/open/badges
+rewardtrack.introduction.hidden_tasks_unity=publish_picture,send_messenger_invite
 roaming_npc.send_notification_action={"display":"BUBBLE","image":"${image.library.url}album1584/BOT.png"}
 room.bundles.dummy_id=14272196
 room.camera.follow_user=true
