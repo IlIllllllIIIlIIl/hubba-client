@@ -545,7 +545,6 @@
     <part id="7014" type="ha"/>
     <part id="7015" type="ha"/>
   </lib>
-  <lib id="face_M_nftscarface2" revision="72910"/>
   <lib id="pet_U_mysticdragon" revision="74800">
     <part id="7048" type="pt"/>
     <part id="7048" type="ptl"/>
@@ -11413,7 +11412,6 @@
     <part id="4799" type="ca"/>
     <part id="4800" type="ca"/>
   </lib>
-  <lib id="face_F_nftscarface2" revision="72910"/>
   <lib id="acc_head_U_summerbraid" revision="75236">
     <part id="7463" type="he"/>
   </lib>
