@@ -593,7 +593,7 @@
   </colors>
   <sets>
     <settype type="hr" paletteid="2" mand_m_0="0" mand_f_0="0" mand_m_1="0" mand_f_1="0">
-      <set id="175" gender="M" club="0" colorable="0" selectable="1" preselectable="0">
+      <set id="175" gender="M" club="0" colorable="0" selectable="0" preselectable="0">
         <part id="996" type="hr" colorable="0" index="0" colorindex="0"/>
       </set>
       <set id="3004" gender="U" club="0" colorable="1" selectable="1" preselectable="0">
@@ -2092,34 +2092,34 @@
         <part id="2232" type="hr" colorable="1" index="0" colorindex="1"/>
         <part id="2232" type="hrb" colorable="1" index="0" colorindex="1"/>
       </set>
-      <set id="177" gender="M" club="0" colorable="0" selectable="1" preselectable="0">
+      <set id="177" gender="M" club="0" colorable="0" selectable="0" preselectable="0">
         <part id="458" type="hr" colorable="0" index="0" colorindex="0"/>
       </set>
       <set id="145" gender="M" club="0" colorable="1" selectable="1" preselectable="0">
         <part id="16" type="hr" colorable="1" index="0" colorindex="1"/>
         <part id="16" type="hrb" colorable="1" index="0" colorindex="1"/>
       </set>
-      <set id="580" gender="F" club="0" colorable="0" selectable="1" preselectable="0">
+      <set id="580" gender="F" club="0" colorable="0" selectable="0" preselectable="0">
         <part id="457" type="hr" colorable="0" index="0" colorindex="0"/>
       </set>
-      <set id="525" gender="F" club="0" colorable="1" selectable="1" preselectable="0">
+      <set id="525" gender="F" club="0" colorable="1" selectable="0" preselectable="0">
         <part id="14" type="hr" colorable="1" index="0" colorindex="1"/>
       </set>
       <set id="550" gender="F" club="0" colorable="1" selectable="1" preselectable="0">
         <part id="18" type="hr" colorable="1" index="0" colorindex="1"/>
         <part id="18" type="hrb" colorable="1" index="0" colorindex="1"/>
       </set>
-      <set id="595" gender="F" club="0" colorable="0" selectable="1" preselectable="0">
+      <set id="595" gender="F" club="0" colorable="0" selectable="0" preselectable="0">
         <part id="25" type="hr" colorable="0" index="0" colorindex="0"/>
       </set>
       <set id="125" gender="M" club="0" colorable="1" selectable="1" preselectable="0">
         <part id="8" type="hr" colorable="1" index="0" colorindex="1"/>
         <part id="8" type="hrb" colorable="1" index="0" colorindex="1"/>
       </set>
-      <set id="140" gender="M" club="0" colorable="1" selectable="1" preselectable="0">
+      <set id="140" gender="M" club="0" colorable="1" selectable="0" preselectable="0">
         <part id="14" type="hr" colorable="1" index="0" colorindex="1"/>
       </set>
-      <set id="176" gender="M" club="0" colorable="0" selectable="1" preselectable="0">
+      <set id="176" gender="M" club="0" colorable="0" selectable="0" preselectable="0">
         <part id="457" type="hr" colorable="0" index="0" colorindex="0"/>
       </set>
       <set id="165" gender="M" club="0" colorable="1" selectable="1" preselectable="1">
@@ -2138,14 +2138,14 @@
         <part id="26" type="hr" colorable="0" index="0" colorindex="0"/>
         <part id="26" type="hrb" colorable="0" index="0" colorindex="0"/>
       </set>
-      <set id="130" gender="M" club="0" colorable="1" selectable="1" preselectable="0">
+      <set id="130" gender="M" club="0" colorable="1" selectable="0" preselectable="0">
         <part id="13" type="hr" colorable="1" index="0" colorindex="1"/>
       </set>
       <set id="155" gender="U" club="0" colorable="1" selectable="1" preselectable="0">
         <part id="10" type="hr" colorable="1" index="0" colorindex="1"/>
         <part id="10" type="hrb" colorable="1" index="0" colorindex="1"/>
       </set>
-      <set id="150" gender="M" club="0" colorable="1" selectable="1" preselectable="0">
+      <set id="150" gender="M" club="0" colorable="1" selectable="0" preselectable="0">
         <part id="15" type="hr" colorable="1" index="0" colorindex="1"/>
       </set>
       <set id="500" gender="F" club="0" colorable="1" selectable="1" preselectable="0">
@@ -2164,7 +2164,7 @@
         <part id="5" type="hr" colorable="1" index="0" colorindex="1"/>
         <part id="5" type="hrb" colorable="1" index="0" colorindex="1"/>
       </set>
-      <set id="565" gender="F" club="0" colorable="1" selectable="1" preselectable="0">
+      <set id="565" gender="F" club="0" colorable="1" selectable="0" preselectable="0">
         <part id="21" type="hr" colorable="1" index="0" colorindex="1"/>
       </set>
       <set id="115" gender="M" club="0" colorable="1" selectable="1" preselectable="0">
@@ -2191,7 +2191,7 @@
         <part id="6" type="hr" colorable="1" index="0" colorindex="1"/>
         <part id="6" type="hrb" colorable="1" index="0" colorindex="1"/>
       </set>
-      <set id="590" gender="F" club="0" colorable="0" selectable="1" preselectable="0">
+      <set id="590" gender="F" club="0" colorable="0" selectable="0" preselectable="0">
         <part id="458" type="hr" colorable="0" index="0" colorindex="0"/>
       </set>
       <set id="100" gender="M" club="0" colorable="0" selectable="1" preselectable="1">
@@ -2202,24 +2202,24 @@
         <part id="27" type="hr" colorable="1" index="0" colorindex="1"/>
         <part id="27" type="hrb" colorable="1" index="0" colorindex="1"/>
       </set>
-      <set id="570" gender="F" club="0" colorable="1" selectable="1" preselectable="0">
+      <set id="570" gender="F" club="0" colorable="1" selectable="0" preselectable="0">
         <part id="22" type="hr" colorable="1" index="0" colorindex="1"/>
       </set>
-      <set id="585" gender="F" club="0" colorable="0" selectable="1" preselectable="0">
+      <set id="585" gender="F" club="0" colorable="0" selectable="0" preselectable="0">
         <part id="996" type="hr" colorable="0" index="0" colorindex="0"/>
       </set>
       <set id="135" gender="M" club="0" colorable="1" selectable="1" preselectable="0">
         <part id="9" type="hr" colorable="1" index="0" colorindex="1"/>
         <part id="9" type="hrb" colorable="1" index="0" colorindex="1"/>
       </set>
-      <set id="178" gender="M" club="0" colorable="0" selectable="1" preselectable="0">
+      <set id="178" gender="M" club="0" colorable="0" selectable="0" preselectable="0">
         <part id="25" type="hr" colorable="0" index="0" colorindex="0"/>
       </set>
       <set id="575" gender="F" club="0" colorable="1" selectable="1" preselectable="0">
         <part id="23" type="hr" colorable="1" index="0" colorindex="1"/>
         <part id="23" type="hrb" colorable="1" index="0" colorindex="1"/>
       </set>
-      <set id="535" gender="F" club="0" colorable="1" selectable="1" preselectable="0">
+      <set id="535" gender="F" club="0" colorable="1" selectable="0" preselectable="0">
         <part id="15" type="hr" colorable="1" index="0" colorindex="1"/>
       </set>
       <set id="110" gender="M" club="0" colorable="1" selectable="1" preselectable="1">
@@ -2230,14 +2230,14 @@
         <part id="9" type="hr" colorable="1" index="0" colorindex="1"/>
         <part id="9" type="hrb" colorable="1" index="0" colorindex="1"/>
       </set>
-      <set id="120" gender="M" club="0" colorable="0" selectable="1" preselectable="0">
+      <set id="120" gender="M" club="0" colorable="0" selectable="0" preselectable="0">
         <part id="7" type="hr" colorable="0" index="0" colorindex="0"/>
       </set>
       <set id="545" gender="F" club="0" colorable="1" selectable="1" preselectable="0">
         <part id="17" type="hr" colorable="1" index="0" colorindex="1"/>
         <part id="17" type="hrb" colorable="1" index="0" colorindex="1"/>
       </set>
-      <set id="160" gender="M" club="0" colorable="1" selectable="1" preselectable="0">
+      <set id="160" gender="M" club="0" colorable="1" selectable="0" preselectable="0">
         <part id="21" type="hr" colorable="1" index="0" colorindex="1"/>
       </set>
       <set id="889" gender="M" club="0" colorable="1" selectable="1" preselectable="0">
@@ -2300,7 +2300,7 @@
         <part id="5" type="hr" colorable="1" index="0" colorindex="1"/>
         <part id="5" type="hrb" colorable="1" index="0" colorindex="1"/>
       </set>
-      <set id="800" gender="M" club="0" colorable="1" selectable="1" preselectable="0">
+      <set id="800" gender="M" club="0" colorable="1" selectable="0" preselectable="0">
         <part id="502" type="hr" colorable="1" index="0" colorindex="1"/>
       </set>
       <set id="868" gender="F" club="0" colorable="1" selectable="1" preselectable="0">
@@ -2343,7 +2343,7 @@
         <part id="506" type="hr" colorable="1" index="0" colorindex="1"/>
         <part id="506" type="hrb" colorable="1" index="0" colorindex="1"/>
       </set>
-      <set id="801" gender="M" club="0" colorable="1" selectable="1" preselectable="0">
+      <set id="801" gender="M" club="0" colorable="1" selectable="0" preselectable="0">
         <part id="505" type="hr" colorable="1" index="0" colorindex="1"/>
       </set>
       <set id="836" gender="F" club="0" colorable="1" selectable="1" preselectable="0">
@@ -2358,7 +2358,7 @@
         <part id="6" type="hr" colorable="1" index="0" colorindex="1"/>
         <part id="6" type="hrb" colorable="1" index="0" colorindex="1"/>
       </set>
-      <set id="810" gender="F" club="0" colorable="1" selectable="1" preselectable="0">
+      <set id="810" gender="F" club="0" colorable="1" selectable="0" preselectable="0">
         <part id="502" type="hr" colorable="1" index="0" colorindex="1"/>
       </set>
       <set id="811" gender="F" club="0" colorable="1" selectable="1" preselectable="0">
@@ -2681,7 +2681,7 @@
         <part id="2629" type="hrb" colorable="1" index="0" colorindex="1"/>
         <part id="2630" type="hr" colorable="0" index="1" colorindex="0"/>
       </set>
-      <set id="201402" gender="M" club="0" colorable="1" selectable="1">
+      <set id="201402" gender="M" club="0" colorable="1" selectable="0">
         <part id="6692" type="hr" colorable="1" index="0" colorindex="1"/>
         <part id="6692" type="hrb" colorable="1" index="0" colorindex="1"/>
       </set>
@@ -2689,7 +2689,7 @@
         <part id="3501" type="hr" colorable="1" index="0" colorindex="1"/>
         <part id="2605" type="hrb" colorable="1" index="0" colorindex="1"/>
       </set>
-      <set id="8856282" gender="U" club="0" colorable="1" selectable="1">
+      <set id="8856282" gender="U" club="0" colorable="1" selectable="0">
         <part id="1579" type="hr" colorable="1" index="0" colorindex="1"/>
         <part id="1579" type="hrb" colorable="1" index="0" colorindex="1"/>
       </set>
@@ -9932,7 +9932,7 @@
         <part id="2572" type="ls" colorable="0" index="2" colorindex="0"/>
         <part id="2572" type="rs" colorable="0" index="2" colorindex="0"/>
       </set>
-      <set id="556282" gender="M" club="0" colorable="1" selectable="1">
+      <set id="556282" gender="M" club="0" colorable="1" selectable="0">
         <part id="4597" type="ch" colorable="1" index="0" colorindex="1"/>
         <part id="4597" type="ls" colorable="1" index="0" colorindex="1"/>
         <part id="4597" type="rs" colorable="1" index="0" colorindex="1"/>
@@ -11774,7 +11774,7 @@
         <part id="2767" type="sh" colorable="0" index="0" colorindex="1"/>
         <part id="2768" type="sh" colorable="1" index="1" colorindex="2"/>
       </set>
-      <set id="4556282" gender="U" club="0" colorable="1" selectable="1">
+      <set id="4556282" gender="U" club="0" colorable="1" selectable="0">
         <part id="2591" type="sh" colorable="1" index="0" colorindex="1"/>
       </set>
       <set id="53415682" gender="F" club="0" colorable="1" selectable="1">
@@ -17536,10 +17536,10 @@
       <set id="568282" gender="U" club="0" colorable="1" selectable="1">
         <part id="2587" type="fa" colorable="1" index="0" colorindex="1"/>
       </set>
-      <set id="562872" gender="U" club="0" colorable="1" selectable="1">
+      <set id="562872" gender="U" club="0" colorable="1" selectable="0">
         <part id="2989" type="fa" colorable="1" index="0" colorindex="1"/>
       </set>
-      <set id="560282" gender="U" club="0" colorable="1" selectable="1">
+      <set id="560282" gender="U" club="0" colorable="1" selectable="0">
         <part id="3989" type="fa" colorable="1" index="0" colorindex="1"/>
       </set>
       <set id="561282" gender="U" club="0" colorable="1" selectable="1">
@@ -18849,10 +18849,10 @@
       <set id="5842007" gender="U" club="0" colorable="0" selectable="1">
         <part id="2727" type="ca" colorable="0" index="0" colorindex="0"/>
       </set>
-      <set id="201523" gender="U" club="0" colorable="0" selectable="1">
+      <set id="201523" gender="U" club="0" colorable="0" selectable="0">
         <part id="6718" type="ca" colorable="0" index="0" colorindex="0"/>
       </set>
-      <set id="201423" gender="U" club="0" colorable="0" selectable="1">
+      <set id="201423" gender="U" club="0" colorable="0" selectable="0">
         <part id="6715" type="ca" colorable="0" index="0" colorindex="0"/>
       </set>
       <set id="6057547" gender="U" club="0" colorable="1" selectable="1" preselectable="0">
@@ -19169,10 +19169,10 @@
         <part id="9004" type="wa" colorable="1" index="0" colorindex="1"/>
         <part id="9005" type="wa" colorable="1" index="1" colorindex="2"/>
       </set>
-      <set id="568282" gender="U" club="0" colorable="1" selectable="1">
+      <set id="568282" gender="U" club="0" colorable="1" selectable="0">
         <part id="1535" type="wa" colorable="1" index="0" colorindex="1"/>
       </set>
-      <set id="919001" gender="U" club="0" colorable="1" selectable="1">
+      <set id="919001" gender="U" club="0" colorable="1" selectable="0">
         <part id="9001" type="wa" colorable="1" index="0" colorindex="1"/>
       </set>
       <set id="59815231" gender="U" club="0" colorable="1" selectable="1">
@@ -22917,7 +22917,7 @@
         <part id="2394" type="cp" colorable="1" index="0" colorindex="1"/>
         <part id="2525" type="cp" colorable="0" index="1" colorindex="0"/>
       </set>
-      <set id="856277" gender="U" club="0" colorable="1" selectable="1">
+      <set id="856277" gender="U" club="0" colorable="1" selectable="0">
         <part id="8228" type="cp" colorable="1" index="0" colorindex="1"/>
       </set>
       <set id="25101423" gender="U" club="0" colorable="1" selectable="1">
